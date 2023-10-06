@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url-here" alt="Your Name">
+  <img src="https://your-image-url-here" alt="Charith Wickramasinghe">
 </p>
 
 <h1 align="center">Hey, Guys.! 👋</h1>
