@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://your-image-url-here" alt="Charith Wickramasinghe">
+  Charith Wickramasinghe
 </p>
 
 <h1 align="center">Hey, Guys.! 👋</h1>
 
 <p align="center">
-  Welcome to my GitHub playground! I'm [Your Name], a passionate [Your Role] with a love for [Your Interests]. Here, you'll find a collection of my adventures in the world of code and creativity. 🚀
+  Welcome to my GitHub playground! I'm Charith Wickramasinghe, a passionate web development with a love for explore new technlolgies. Here, you'll find a collection of my adventures in the world of code and creativity. 🚀
 </p>
 
 ### 🛠️ Technologies I Love
