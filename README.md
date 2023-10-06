@@ -1,7 +1,3 @@
-<p align="center">
-  Charith Wickramasinghe
-</p>
-
 <h1 align="center">Hey, Guys.! 👋</h1>
 
 <p align="center">
