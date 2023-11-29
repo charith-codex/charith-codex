@@ -15,5 +15,5 @@
 - 🤖 Machine Learning: TensorFlow, PyTorch
 
 🔭 Exploring new web development trends and best practices.
-📘 Learning [Technology or Skill].
-🌐 Building [Project Name] to make the world a better place.
+📘 Learning New Technologies.
+🌐 Building eco friendly to make the world a better place.
