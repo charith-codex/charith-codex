@@ -4,6 +4,17 @@
   Welcome to my GitHub playground! I'm Charith Wickramasinghe, a passionate web development with a love for explore new technlolgies. Here, you'll find a collection of my adventures in the world of code and creativity. 🚀
 </p>
 
+<div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=charith-codex&show_icons=true&theme=radical"></div>
+
+<div><img align="right" width="47%" height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charith-codex&layout=compact"></div>
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 ### 🛠️ Technologies I Love
 
 ```markdown
