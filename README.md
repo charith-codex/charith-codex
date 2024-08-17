@@ -1,9 +1,10 @@
 <h1 align="center">Hey, Guys.! 👋</h1>
 
-
+```markdown
+![Profile Views](https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet)
+```
 <p align="center">
   Welcome to my GitHub playground! I'm Charith Wickramasinghe, a passionate web development with a love for explore new technlolgies. Here, you'll find a collection of my adventures in the world of code and creativity. 🚀 
-![Profile Views](https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet)
 </p>
 
 <div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=charith-codex&show_icons=true&theme=radical"></div>
