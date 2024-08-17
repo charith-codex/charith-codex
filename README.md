@@ -53,6 +53,6 @@
 📘 Learning new technologies.
 🌐 Building eco-friendly solutions to make the world a better place.
 ```
-<div align="center">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet" alt="Profile Views">
 </div>
