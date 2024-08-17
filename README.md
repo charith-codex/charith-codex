@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet" alt="Profile Views">
 </div>
 
+## 🧑‍💻 Skills & Expertise
 ```markdown
 - 💻 Front-end Development: HTML, CSS, JavaScript
 - 🌐 Back-end Development: Node.js, Express.js
@@ -52,3 +52,7 @@
 🔭 Exploring new web development trends and best practices.
 📘 Learning new technologies.
 🌐 Building eco-friendly solutions to make the world a better place.
+```
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet" alt="Profile Views">
+</div>
