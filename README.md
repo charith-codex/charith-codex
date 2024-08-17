@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Matemasie&weight=500&size=30&pause=1000&width=435&lines=Hey%2C+I'm+Charith+Wickramasinghe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Matemasie&size=25&pause=1000&width=435&lines=Hey%2C+I'm+Charith+Wickramasinghe)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet)
 
