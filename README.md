@@ -1,8 +1,7 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=33&pause=1000&width=435&lines=Hey%2C+I'm+Charith+Wickramasinghe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Metal&size=30&pause=1000&width=435&lines=Hey%2C+I'm+Charith+Wickramasinghe)](https://git.io/typing-svg)
   
-![Profile Views](https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet)
 </div>
 
 
@@ -37,6 +36,12 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet)
+  
+</div>
 
 ```markdown
 - 💻 Front-end Development: HTML, CSS, JavaScript
