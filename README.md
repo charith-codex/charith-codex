@@ -1,8 +1,7 @@
-<h1 align="center">Hey, Guys.! 👋</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Charith+Wickramasinghe)](https://git.io/typing-svg)</h1>
 
-```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet)
-```
+<h3 align="center">![Profile Views](https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet)</h3>
+
 <p align="center">
   Welcome to my GitHub playground! I'm Charith Wickramasinghe, a passionate web development with a love for explore new technlolgies. Here, you'll find a collection of my adventures in the world of code and creativity. 🚀 
 </p>
