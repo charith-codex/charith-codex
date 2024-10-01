@@ -42,16 +42,15 @@
 
 ## 🧑‍💻 Skills & Expertise
 ```markdown
-- 💻 Front-end Development: HTML, CSS, JavaScript
+- 💻 Front-end Development: Next.js, React, HTML, CSS, JavaScript, Tailwind
 - 🌐 Back-end Development: Node.js, Express.js
 - 🗄️ Databases: MongoDB, SQL
-- 🚀 Frameworks: React, Next.js
+- ☁️ ServerSide: Aws, Digital Ocean
 - 🎨 UI/UX Design: Figma
 - 🤖 Machine Learning: TensorFlow, PyTorch
 
 🔭 Exploring new web development trends and best practices.
 📘 Learning new technologies.
-🌐 Building eco-friendly solutions to make the world a better place.
 ```
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet" alt="Profile Views">
