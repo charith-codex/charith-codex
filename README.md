@@ -45,9 +45,9 @@
 - 💻 Front-end Development: Next.js, React, Tailwind, JavaScript, TypeScript
 - 🌐 Back-end Development: Node.js, Express.js
 - 🗄️ Databases: MongoDB, SQL, Neon
-- ☁️ ServerSide: Aws, Azure, 
+- ☁️ ServerSide: Aws, Azure, GCP
 - 🎨 UI/UX Design: Figma, ShardCn
-- 🤖 AI & ML: TensorFlow, PyTorch, MCP
+- 🤖 AI & ML: Python, TensorFlow, PyTorch, MCP, FastApi
 
 🔭 Exploring new web development trends and best practices.
 📘 Learning new technologies.
