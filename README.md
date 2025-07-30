@@ -42,12 +42,12 @@
 
 ## 🧑‍💻 Skills & Expertise
 ```markdown
-- 💻 Front-end Development: Next.js, React, HTML, CSS, JavaScript, Tailwind
+- 💻 Front-end Development: Next.js, React, Tailwind, JavaScript, TypeScript
 - 🌐 Back-end Development: Node.js, Express.js
-- 🗄️ Databases: MongoDB, SQL
-- ☁️ ServerSide: Aws, Digital Ocean
-- 🎨 UI/UX Design: Figma
-- 🤖 Machine Learning: TensorFlow, PyTorch
+- 🗄️ Databases: MongoDB, SQL, Neon
+- ☁️ ServerSide: Aws, Azure, 
+- 🎨 UI/UX Design: Figma, ShardCn
+- 🤖 AI & ML: TensorFlow, PyTorch, MCP
 
 🔭 Exploring new web development trends and best practices.
 📘 Learning new technologies.
