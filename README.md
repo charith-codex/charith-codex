@@ -83,7 +83,7 @@
 | 💻 **Full Stack Development**                   | 🤖 **AI & Machine Learning**                 |
 |------------------------------------------------|---------------------------------------------|
 | 🛠️ HTML, CSS, JavaScript, TypeScript                         | 🐍 Python                             |
-| ⚛️ React / Next.js                              | AI Web Integration          |
+| ⚛️ React / Next.js                              | 📊 AI Web Integration          |
 | 🎨 UI/UX Design (Figma, Tailwind)                | 🤖 ML Fundamentals (Scikit-learn)           |
 | 🚀 Node.js, Express.js (API & Backend)           | 🧠 Deep Learning (TensorFlow, PyTorch)      |
 | 🗄️ Databases & ORMs: MongoDB, SQL, Neon, Prisma                  | 🧩 NLP, Computer Vision                      |
