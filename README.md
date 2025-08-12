@@ -8,7 +8,8 @@
 
 ### 👨‍💻 About Me
 
-> I'm a passionate full-stack developer from Sri Lanka 🇱🇰 with a love for building beautiful and functional web applications. I thrive on turning complex problems into simple, elegant solutions. My goal is to leverage technology to create impactful digital experiences. 🚀
+> I'm a passionate full-stack developer from Sri Lanka 🇱🇰 with a love for building beautiful and functional web applications. I thrive on turning complex problems into simple, elegant solutions. My goal is to leverage technology to create impactful digital experiences.
+
 
 -   🌱 I’m currently diving deeper into **Cloud Architecture & AI Integrations**.
 -   🔭 I’m looking to collaborate on **innovative open-source projects**.
