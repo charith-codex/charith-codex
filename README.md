@@ -1,12 +1,21 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Metal&size=30&pause=1000&width=435&lines=Hey+Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Metal&size=35&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Charith!;)](https://git.io/typing-svg)
   
 </div>
 
-<p align="center">
-  Welcome to my GitHub playground! I'm Charith Wickramasinghe, a passionate web developer with a love for exploring new technologies. Here, you'll find a collection of my adventures in the world of code and creativity. 🚀 
-</p>
+ ---
+
+### 👨‍💻 About Me
+
+> I'm a passionate full-stack developer from Sri Lanka 🇱🇰 with a love for building beautiful and functional web applications. I thrive on turning complex problems into simple, elegant solutions. My goal is to leverage technology to create impactful digital experiences. 🚀
+
+-   🌱 I’m currently diving deeper into **Cloud Architecture & AI Integrations**.
+-   🔭 I’m looking to collaborate on **innovative open-source projects**.
+-   💬 Ask me about **Next.js, React and modern web development**.
+-   📫 How to reach me: **charith@zenora.tech**
+
+---
 
 <div align="center">
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=charith-codex&show_icons=true&theme=radical">
@@ -37,6 +46,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
+  <img src="https://img.shields.io/badge/-Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
 </div>
 
