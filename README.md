@@ -103,8 +103,6 @@
   </tr>
 </table>
 
----
-
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet" alt="Profile Views">
