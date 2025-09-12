@@ -35,16 +35,14 @@
     </td>
     <td width="50%" valign="middle">
 
-
-🛠️ HTML, CSS, JavaScript, TypeScript  
-⚛️ React / Next.js  
-🎨 UI/UX Design (Figma, Tailwind)  
-🚀 Node.js, Express.js (API & Backend)  
-🗄️ Databases & ORMs: MongoDB, SQL, Neon, Prisma  
-📊 AI Web Integration  
-☁️ Cloud & Deployment (AWS, Azure, Vercel)  
-🔧 Testing & CI/CD  
-
+>- HTML, CSS, JavaScript, TypeScript  
+>- React / Next.js  
+>- UI/UX Design (Figma, Tailwind)  
+>- Node.js, Express.js (API & Backend)  
+>- Databases & ORMs: MongoDB, SQL, Neon, Prisma  
+>- AI Web Integration  
+>- Cloud & Deployment (AWS, Azure, Vercel)  
+>- Testing & CI/CD
     
   </tr>
 </table>
