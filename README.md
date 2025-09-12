@@ -78,17 +78,19 @@
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
 </div>
 
-## 🚀 Roadmaps
+## 🚀 Full Stack Development
 
-| 💻 **Full Stack Development**                   | 🤖 **AI & Machine Learning**                 |
-|------------------------------------------------|---------------------------------------------|
-| 🛠️ HTML, CSS, JavaScript, TypeScript                         | 🐍 Python                             |
-| ⚛️ React / Next.js                              | 📊 AI Web Integration          |
-| 🎨 UI/UX Design (Figma, Tailwind)                | 🤖 ML Fundamentals (Scikit-learn)           |
-| 🚀 Node.js, Express.js (API & Backend)           | 🧠 Deep Learning (TensorFlow, PyTorch)      |
-| 🗄️ Databases & ORMs: MongoDB, SQL, Neon, Prisma                  | 🧩 NLP, Computer Vision                      |
-| ☁️ Cloud & Deployment (AWS, Azure, Vercel) | ⚡ Model Deployment (FastAPI, Flask)         |
-| 🔧 Testing & CI/CD                               | 📚 Research & New Algorithms                 |
+| 💻 **Full Stack Development**                   | 
+|------------------------------------------------|
+| 🛠️ HTML, CSS, JavaScript, TypeScript                         |
+| ⚛️ React / Next.js                              |
+| 🎨 UI/UX Design (Figma, Tailwind)                |
+| 🚀 Node.js, Express.js (API & Backend)           |
+| 🗄️ Databases & ORMs: MongoDB, SQL, Neon, Prisma                  |
+| 📊 AI Web Integration          |
+| ☁️ Cloud & Deployment (AWS, Azure, Vercel) |
+| 🔧 Testing & CI/CD                               | 
+
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet" alt="Profile Views">
