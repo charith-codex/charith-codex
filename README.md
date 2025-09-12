@@ -81,17 +81,30 @@
 ## 🚀 Full Stack Development
 
 <div align="center">
-| 💻 **Full Stack Development**                   | 
-|------------------------------------------------|
-| 🛠️ HTML, CSS, JavaScript, TypeScript                         |
-| ⚛️ React / Next.js                              |
-| 🎨 UI/UX Design (Figma, Tailwind)                |
-| 🚀 Node.js, Express.js (API & Backend)           |
-| 🗄️ Databases & ORMs: MongoDB, SQL, Neon, Prisma                  |
-| 📊 AI Web Integration          |
-| ☁️ Cloud & Deployment (AWS, Azure, Vercel) |
-| 🔧 Testing & CI/CD                               | 
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/d38a0426-a62f-446d-bd7c-c1d74671beb3" alt="Development Gif" width="90%">
+    </td>
+    <td width="50%" valign="middle">
+
+
+🛠️ HTML, CSS, JavaScript, TypeScript  
+⚛️ React / Next.js  
+🎨 UI/UX Design (Figma, Tailwind)  
+🚀 Node.js, Express.js (API & Backend)  
+🗄️ Databases & ORMs: MongoDB, SQL, Neon, Prisma  
+📊 AI Web Integration  
+☁️ Cloud & Deployment (AWS, Azure, Vercel)  
+🔧 Testing & CI/CD  
+
+    
+  </tr>
+</table>
+
 </div>
+
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet" alt="Profile Views">
