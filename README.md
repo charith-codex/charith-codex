@@ -24,6 +24,44 @@
 
 ---
 
+### 🏬 Full Stack Development
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/d38a0426-a62f-446d-bd7c-c1d74671beb3" alt="Development Gif" width="90%">
+    </td>
+    <td width="50%" valign="middle">
+
+
+🛠️ HTML, CSS, JavaScript, TypeScript  
+⚛️ React / Next.js  
+🎨 UI/UX Design (Figma, Tailwind)  
+🚀 Node.js, Express.js (API & Backend)  
+🗄️ Databases & ORMs: MongoDB, SQL, Neon, Prisma  
+📊 AI Web Integration  
+☁️ Cloud & Deployment (AWS, Azure, Vercel)  
+🔧 Testing & CI/CD  
+
+    
+  </tr>
+</table>
+
+</div>
+
+---
+## 📚 Online Learning Platforms
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
+  <img src="https://img.shields.io/badge/-Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+</div>
+
+---
 ### 🛠️ My Tech Stack
 
 
@@ -68,42 +106,6 @@
 </table>
 
 ---
-
-## 📚 Online Learning Platforms
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
-  <img src="https://img.shields.io/badge/-Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-</div>
-
-## 🚀 Full Stack Development
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/d38a0426-a62f-446d-bd7c-c1d74671beb3" alt="Development Gif" width="90%">
-    </td>
-    <td width="50%" valign="middle">
-
-
-🛠️ HTML, CSS, JavaScript, TypeScript  
-⚛️ React / Next.js  
-🎨 UI/UX Design (Figma, Tailwind)  
-🚀 Node.js, Express.js (API & Backend)  
-🗄️ Databases & ORMs: MongoDB, SQL, Neon, Prisma  
-📊 AI Web Integration  
-☁️ Cloud & Deployment (AWS, Azure, Vercel)  
-🔧 Testing & CI/CD  
-
-    
-  </tr>
-</table>
-
-</div>
 
 
 <div align="right">
