@@ -80,6 +80,7 @@
 
 ## 🚀 Full Stack Development
 
+<div align="center">
 | 💻 **Full Stack Development**                   | 
 |------------------------------------------------|
 | 🛠️ HTML, CSS, JavaScript, TypeScript                         |
@@ -90,7 +91,7 @@
 | 📊 AI Web Integration          |
 | ☁️ Cloud & Deployment (AWS, Azure, Vercel) |
 | 🔧 Testing & CI/CD                               | 
-
+</div>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=charith-codex&color=blueviolet" alt="Profile Views">
