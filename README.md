@@ -36,7 +36,7 @@
     <td width="50%" valign="middle">
 
 >- HTML, CSS, JavaScript, TypeScript  
->- React / Next.js  
+>- MERN / Next.js  
 >- UI/UX Design (Figma, Tailwind)  
 >- Node.js, Express.js (API & Backend)  
 >- Databases & ORMs: MongoDB, SQL, Neon, Prisma  
