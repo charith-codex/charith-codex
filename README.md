@@ -18,12 +18,6 @@
 
 ---
 
-<div align="center">
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=charith-codex&show_icons=true&theme=radical">
-</div>
-
----
-
 ### 🏬 Full Stack Development
 
 <div align="center">
