@@ -14,7 +14,7 @@
 -   🌱 I’m currently diving deeper into **Cloud Architecture & AI Integrations**.
 -   🔭 I’m looking to collaborate on **innovative open-source projects**.
 -   💬 Ask me about **Next.js, React and modern web development**.
--   📫 How to reach me: **charith@zenora.tech**
+-   📫 How to reach me: **charith@zeemaz.site**
 
 ---
 
