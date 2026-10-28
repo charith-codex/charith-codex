@@ -32,10 +32,10 @@
 >- HTML, CSS, JavaScript, TypeScript  
 >- MERN / Next.js  
 >- UI/UX Design (Figma, Tailwind)  
->- Node.js, Express.js (API & Backend)  
+>- Node.js, NestJS, Express.js (API & Backend)  
 >- Databases & ORMs: MongoDB, SQL, Neon, Prisma  
->- AI Web Integration  
->- Cloud & Deployment (AWS, Azure, Vercel)  
+>- AI Web Integration (RAG, Vector DBs, LLM)  
+>- Cloud & Deployment (AWS, Azure, GCP)  
 >- Testing & CI/CD
     
   </tr>
