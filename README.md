@@ -18,7 +18,7 @@
 
 ---
 
-### 🏬 Full Stack Development
+### 🏬 Full Stack Development & AI Engineering
 
 <div align="center">
 
